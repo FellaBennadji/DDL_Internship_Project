@@ -29,7 +29,9 @@ For this project, we used the following :
 main tools :
 
 R : https://www.r-project.org/
+
 Excel
+
 main libraries :
 
 Tidyverse
