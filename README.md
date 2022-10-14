@@ -1,4 +1,4 @@
-# DDL-Internship_Project
+# DDL_Internship_Project
 This is a repository for my internship project at the DDL lab in Lyon.
 
 The duration of the internship is from 1st of March 2022 to the 31st of August 2022. The main tracks and objectives are as follows:
