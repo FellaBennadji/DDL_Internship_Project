@@ -126,6 +126,6 @@ view(full_df)
 
 
 # saving the output
-full_df %>% write.csv("data_raw/Indeed_search_CA.csv",
+full_df %>% write.csv("Data_raw/Indeed_search_CA.csv",
                       row.names = FALSE,
                       fileEncoding = "UTF-8")
