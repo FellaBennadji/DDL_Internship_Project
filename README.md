@@ -9,7 +9,7 @@ For more information about the research methodology and for questions regarding 
 # Data
 we scraped our data from :
 
-- Indeed Canada : https://emplois.ca.indeed.com/
+- [Indeed Canada](https://emplois.ca.indeed.com/)
 - This data helped us calculate gender inequality in job offers
 
 # Get started 
