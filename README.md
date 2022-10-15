@@ -21,7 +21,7 @@ we scraped our data from :
 For this project, we used the following:
 
 main tools :
-- R: https://www.r-project.org/
+- [R](https://www.r-project.org/) - Main language
 - Excel
 
 main libraries:
