@@ -33,4 +33,4 @@ main libraries:
 - party
 
 # Improvements
-The extraction model rule-based of this project may be replaced in the futur by a ML model.
+The extraction rule-based model of this project will be replaced in the futur by a ML model.
