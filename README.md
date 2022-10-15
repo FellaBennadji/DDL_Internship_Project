@@ -1,5 +1,5 @@
 # DDL_Internship_Project
-This is a repository for my internship project at the DDL lab in Lyon.
+This is the repository of my internship project at the DDL lab in Lyon.
 
 My model mesure gender bias in Indeed job offers.
 
