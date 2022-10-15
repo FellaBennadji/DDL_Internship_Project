@@ -7,10 +7,8 @@ My model mesure gender bias in Indeed french job offers.
 For more information about the research methodology and for questions regarding collaboration, please contact: bennadjifella@yahoo.fr & marc.allassonniere-tang@mnhn.fr
 
 # Data
-we scraped our data from :
-
-- [Indeed Canada](https://emplois.ca.indeed.com/)
-- This data helped us calculate gender inequality in job offers
+we scraped our data from [Indeed Canada](https://emplois.ca.indeed.com/) .
+This data helped us calculate gender inequality in job offers
 
 # Get started 
 - In order to scrap data from Indeed Canada and Indeed France, please refer to [Scraping_ca.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_ca.R) and [Scraping_fr.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_fr.R) under [Scrap](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Scrap) folder
