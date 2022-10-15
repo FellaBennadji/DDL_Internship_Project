@@ -5,9 +5,6 @@ The duration of the internship is from 1st of March 2022 to the 31st of August 2
 The main tracks and objectives are as follows:
 
 Main output: estimated 80 pages long internship report
-- Report axis 1: presentation of the lab
-- Report axis 2: research at the lab, linguistic feminization in Canada, epicene writing rules.
-- Report axis 3: programming. Learn how to do to basic Natural Language Processing in R.
 
 # Contact
 For more information about the research methodology and for questions regarding collaboration, please contact: bennadjifella@yahoo.fr & marc.allassonniere-tang@mnhn.fr
