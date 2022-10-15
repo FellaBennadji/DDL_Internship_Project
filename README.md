@@ -16,7 +16,7 @@ we scraped our data from :
 This data helped us calculate gender inequality in job offers
 
 # Get started 
-- In order to scrap data from [Indeed Canada] (https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_ca.R) and Indeed France,please refer to scraping_ca.R and scraping_fr.R under Scrap folder
+- In order to scrap data from [Indeed Canada](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_ca.R) and Indeed France,please refer to scraping_ca.R and scraping_fr.R under Scrap folder
 - To analyse data, please refer to Second_model.R under Models. We have another model less performing under First_model.R 
 - Raw_data contain our raw : Indeed_search_CA.csv and manually annotated data under qualitative result.csv
 
