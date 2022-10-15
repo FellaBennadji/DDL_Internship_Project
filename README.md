@@ -21,7 +21,7 @@ For this project, we used the following:
 
 main tools :
 - [R](https://www.r-project.org/) - Main language
-- Excel - For data annotation
+- [Excel](https://www.microsoft.com/fr-fr/microsoft-365/p/excel/CFQ7TTC0HR4R?activetab=pivot:pr%C3%A9sentationtab&ef_id=EAIaIQobChMIt66Hoani-gIVb49oCR2reA2rEAAYASAAEgJhIPD_BwE:G:s&OCID=AIDcmm409lj8ne_SEM_EAIaIQobChMIt66Hoani-gIVb49oCR2reA2rEAAYASAAEgJhIPD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=EAIaIQobChMIt66Hoani-gIVb49oCR2reA2rEAAYASAAEgJhIPD_BwE) - For data annotation
 
 main libraries:
 - Tidyverse
