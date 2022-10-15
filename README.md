@@ -17,8 +17,8 @@ This data helped us calculate gender inequality in job offers
 
 # Get started 
 - In order to scrap data from Indeed Canada and Indeed France,please refer to [Scraping_ca.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_ca.R) and [Scraping_fr.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Scrap/Scraping_fr.R) under [Scrap](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Scrap) folder
-- To analyse data, please refer to Second_model.R under Models. We have another model less performing under First_model.R 
-- Raw_data contain our raw : Indeed_search_CA.csv and manually annotated data under qualitative result.csv
+- To analyse data, please refer to [Second_model.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Models/Second_model.R) under [Models](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Models). We have another model less performing under [First_model.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Models/First_model.R)
+- [Data_raw](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Data_raw) contain our raw data : [Indeed_search_CA.csv](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Data_raw/Indeed_search_CA.csv) and manually annotated data under [qualitative result.csv](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Data_raw/qualitative%20result.csv)
 
 # Build in 
 For this project, we used the following :
