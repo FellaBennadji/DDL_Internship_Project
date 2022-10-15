@@ -1,11 +1,7 @@
 # DDL_Internship_Project
 This is a repository for my internship project at the DDL lab in Lyon.
+
 My model mesure gender bias in Indeed job offers.
-
-The duration of the internship is from 1st of March 2022 to the 31st of August 2022. 
-The main tracks and objectives are as follows:
-
-Main output: estimated 80 pages long internship report
 
 # Contact
 For more information about the research methodology and for questions regarding collaboration, please contact: bennadjifella@yahoo.fr & marc.allassonniere-tang@mnhn.fr
