@@ -1,7 +1,7 @@
 # DDL_Internship_Project
 This is the repository of my internship project at the DDL lab in Lyon.
 
-My model mesure gender bias in Indeed french job offers.
+The created model mesure gender bias in Indeed french job offers.
 
 # Contact
 For more information about the research methodology and for questions regarding collaboration, please contact: bennadjifella@yahoo.fr & marc.allassonniere-tang@mnhn.fr
