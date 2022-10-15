@@ -21,7 +21,7 @@ For this project, we used the following:
 
 main tools :
 - [R](https://www.r-project.org/) - Main language
-- Excel
+- Excel - For data annotation
 
 main libraries:
 - Tidyverse
