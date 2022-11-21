@@ -15,7 +15,6 @@ This data helped us calculate gender inequality in job offers
 - To analyse data, please refer to [Second_model.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Models/Second_model.R) under [Models](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Models). We have another model less performing under [First_model.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Models/First_model.R)
 - [Data_raw](https://github.com/FellaBennadji/DDL_Internship_Project/tree/main/Data_raw) contain our raw data: [Indeed_search_CA.csv](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Data_raw/Indeed_search_CA.csv) and manually annotated data under [qualitative result.csv](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Data_raw/qualitative%20result.csv)
 - We evaluated our model using new data under [Indeed_director.csv](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Evaluation/Indeed_director.csv) we scraped using [New_scrap.R](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Evaluation/New_scrap.R)
-- For the internship report, please check Internship_report
 
 # Build in 
 For this project, we used the following:
