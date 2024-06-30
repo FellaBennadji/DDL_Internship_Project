@@ -33,7 +33,7 @@ main libraries:
 - party
 
 # Thesis
-To read the report for this project, please click [here](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Fella%20Bennadji-rapport%20de%20stage%20long.pdf).
+To read the report for this project, please click [here](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Project%20Thesis.pdf).
 
 
 # Improvements
