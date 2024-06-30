@@ -32,5 +32,9 @@ main libraries:
 - Ggplot2
 - party
 
+# Thesis
+To read the report for this project, please refer to the report.pdf file.
+
+
 # Improvements
 The classification rule-based model of this project will be replaced in the futur by a ML model.
