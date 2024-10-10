@@ -34,6 +34,7 @@ main libraries:
 
 # Thesis
 To read the report for this project, please click [here](https://github.com/FellaBennadji/DDL_Internship_Project/blob/main/Project%20Thesis.pdf).
+For the presentation : https://view.genially.com/6294c70801cdc900183e3a78/dossier-reporting-internship-report
 
 
 # Improvements
